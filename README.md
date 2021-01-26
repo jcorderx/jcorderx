@@ -1,5 +1,14 @@
-### Hi there 👋
-
+### Hi there 👋, My name is Jonathan, Welcome to my Github.
+<samp>
+  I am a Clemson University Computer Science Graduate with a minor in Cyber Security. 
+  I enjoy coding in my free time and learning about new techonologies.
+<br><br>
+ </samp>
+<samp>
+  Current Projects:
+    Reddit Parser: This parser will submit a request to reddit and retrieve an html page. Once retrieved it will go through
+    tags in order to find links that are associated with the platforms of 
+</samp>
 <!--
 **jcorderx/jcorderx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
